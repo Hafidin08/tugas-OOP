@@ -25,7 +25,7 @@ class KarakterSurfer:
         print(f"Status: {status}")
 
 
-player1 = KarakterSurfer("Jake")
+player1 = KarakterSurfer("Adin")
 player1.info_player()
 player1.ambil_koin(5)
 player1.tabrak_rintangan()
